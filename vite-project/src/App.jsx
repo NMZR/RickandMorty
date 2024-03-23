@@ -22,7 +22,7 @@ function App() {
   
   return (
     <>
-      <h1 className='app-title'>Danial and Timur</h1>
+      <h1 className='app-title'>Rick and Morty</h1>
       <List data={data}/>
 
     </>
